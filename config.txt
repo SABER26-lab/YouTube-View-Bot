@@ -1,6 +1,6 @@
-search_string = Your Search Here
-min_watch = 10
-max_watch = 45
-wait_after = 15
-views = 100
+search_string = 500 Subscribers SPECIAL+ Random Celebration
+min_watch = 30
+max_watch = 100
+wait_after = 5
+views = 1100
 multicore = False
